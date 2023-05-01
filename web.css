@@ -7,11 +7,11 @@
 .site{
     display: flex;
     justify-content: center;
-    background-color: rgb(46, 77, 77);
+    background-color: rgb(34, 53, 53);
 }
 
 .perfil img{
-    border-radius: 48%;
+    border-radius: 50%;
     border: 5px solid rgb(126, 119, 111);
     margin: 5%;
 }
@@ -39,7 +39,7 @@
 }
 
 .texto{
-    background-color:rgb(77, 166, 136);
+    background-color: #FFEFD5;
     width: 700px;
     height: 100%;
 
